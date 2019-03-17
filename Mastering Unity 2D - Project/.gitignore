@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# Except for:
+!/Assets
+!/ProjectSettings
+!/.gitignore
+!/omnisharp.json
