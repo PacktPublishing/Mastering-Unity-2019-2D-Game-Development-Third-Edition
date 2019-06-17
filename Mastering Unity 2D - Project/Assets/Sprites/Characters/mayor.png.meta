@@ -1,34 +1,34 @@
 fileFormatVersion: 2
-guid: 3060cee9ae4867c4b8292ad17756ce6c
+guid: 84f089aa69e34c742bed12495035ca96
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2720509990274925279
-    second: protagonist-walkCycle_0
+      213: -4569357066326794538
+    second: mayor_0
   - first:
-      213: 8316397184424839978
-    second: protagonist-walkCycle_1
+      213: 1811237931590326294
+    second: mayor_1
   - first:
-      213: -6185215649757994937
-    second: protagonist-walkCycle_2
+      213: -3964672265872817668
+    second: mayor_2
   - first:
-      213: 6970761311163112517
-    second: protagonist-walkCycle_3
+      213: -3863933726523950838
+    second: mayor_3
   - first:
-      213: 6055849998033646926
-    second: protagonist-walkCycle_4
+      213: -948518828187483759
+    second: mayor_4
   - first:
-      213: 2653441173513263824
-    second: protagonist-walkCycle_5
+      213: 27211227212668222
+    second: mayor_5
   - first:
-      213: -4051981491151045392
-    second: protagonist-walkCycle_6
+      213: 3949182285061476182
+    second: mayor_6
   - first:
-      213: -671634281960802618
-    second: protagonist-walkCycle_7
+      213: -1214618824711355377
+    second: mayor_7
   - first:
-      213: -3079214201067798777
-    second: protagonist-walkCycle_8
+      213: -7512983544662600336
+    second: mayor_8
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -137,13 +137,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: protagonist-walkCycle_0
+      name: mayor_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 350
-        width: 120
-        height: 153
+        x: 48
+        y: 354
+        width: 122
+        height: 152
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa15b1243eadfb24986f1cdf6ef40ef3
-      internalID: 2720509990274925279
+      spriteID: 882c81928210b6b42ab4cdfe8360971a
+      internalID: -4569357066326794538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_1
+      name: mayor_1
       rect:
         serializedVersion: 2
-        x: 184
-        y: 350
-        width: 120
-        height: 153
+        x: 203
+        y: 354
+        width: 122
+        height: 152
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,83 +172,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbab7b94b23989248b086d5bc503ff70
-      internalID: 8316397184424839978
+      spriteID: 40be3db189378df458140580176a0c8d
+      internalID: 1811237931590326294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_2
-      rect:
-        serializedVersion: 2
-        x: 327
-        y: 350
-        width: 120
-        height: 153
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac31a0f27d24dca4cbe34a31fc2d59d2
-      internalID: -6185215649757994937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_3
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 181
-        width: 94
-        height: 156
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e003dbe31e194e5478ba07dffc3f48c2
-      internalID: 6970761311163112517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_4
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 181
-        width: 93
-        height: 156
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72dda99ff3029dd4d8ac06fb8ba65045
-      internalID: 6055849998033646926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_5
+      name: mayor_2
       rect:
         serializedVersion: 2
         x: 340
-        y: 181
+        y: 354
+        width: 122
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51760d478f7384540b938889749bbd00
+      internalID: -3964672265872817668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayor_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 176
+        width: 89
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e2f64a78c5934f88e43dad9acdba5
+      internalID: -3863933726523950838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayor_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 177
+        width: 90
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3306d05222904b8beeec4129f1b18
+      internalID: -948518828187483759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayor_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 173
         width: 94
-        height: 156
+        height: 158
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +256,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 297776c15831de340b3a6b286d07ba89
-      internalID: 2653441173513263824
+      spriteID: 8b86ccc5cdcd8e2469c8da9d1d086d3b
+      internalID: 27211227212668222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_6
+      name: mayor_6
       rect:
         serializedVersion: 2
-        x: 45
-        y: 5
-        width: 120
-        height: 153
+        x: 42
+        y: 7
+        width: 123
+        height: 152
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,20 +277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d50122053eb04840988240b63a04119
-      internalID: -4051981491151045392
+      spriteID: 45dd8a47d72af3d4ba755d6833de2855
+      internalID: 3949182285061476182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_7
+      name: mayor_7
       rect:
         serializedVersion: 2
-        x: 191
-        y: 5
-        width: 120
-        height: 153
+        x: 197
+        y: 7
+        width: 122
+        height: 152
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,20 +298,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf4eea8b5fff3c84499c37183783908f
-      internalID: -671634281960802618
+      spriteID: 48e9f1779420d8b4da87a85d2d0a5828
+      internalID: -1214618824711355377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_8
+      name: mayor_8
       rect:
         serializedVersion: 2
-        x: 327
-        y: 5
-        width: 120
-        height: 153
+        x: 349
+        y: 7
+        width: 121
+        height: 152
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,8 +319,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 281a73e80795f6b49a93d02d6bd01383
-      internalID: -3079214201067798777
+      spriteID: 9d466734548a9fd418e1c152f0ff759f
+      internalID: -7512983544662600336
       vertices: []
       indices: 
       edges: []
