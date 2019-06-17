@@ -1,34 +1,34 @@
 fileFormatVersion: 2
-guid: 3060cee9ae4867c4b8292ad17756ce6c
+guid: 0dcda8f199d008f43aa4e4c49f22e069
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2720509990274925279
-    second: protagonist-walkCycle_0
+      213: 5640754118254106532
+    second: shopkeep_0
   - first:
-      213: 8316397184424839978
-    second: protagonist-walkCycle_1
+      213: -752792301465324329
+    second: shopkeep_1
   - first:
-      213: -6185215649757994937
-    second: protagonist-walkCycle_2
+      213: -5795279887641139669
+    second: shopkeep_2
   - first:
-      213: 6970761311163112517
-    second: protagonist-walkCycle_3
+      213: 8265150833338780559
+    second: shopkeep_3
   - first:
-      213: 6055849998033646926
-    second: protagonist-walkCycle_4
+      213: -700477163465542884
+    second: shopkeep_4
   - first:
-      213: 2653441173513263824
-    second: protagonist-walkCycle_5
+      213: 3472045191851312252
+    second: shopkeep_5
   - first:
-      213: -4051981491151045392
-    second: protagonist-walkCycle_6
+      213: -2688867863832233273
+    second: shopkeep_6
   - first:
-      213: -671634281960802618
-    second: protagonist-walkCycle_7
+      213: 7343855414699223548
+    second: shopkeep_7
   - first:
-      213: -3079214201067798777
-    second: protagonist-walkCycle_8
+      213: -3370031540007065307
+    second: shopkeep_8
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -137,13 +137,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: protagonist-walkCycle_0
+      name: shopkeep_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 350
-        width: 120
-        height: 153
+        x: 54
+        y: 337
+        width: 108
+        height: 146
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa15b1243eadfb24986f1cdf6ef40ef3
-      internalID: 2720509990274925279
+      spriteID: a1bb297fe419171448296c597cf98560
+      internalID: 5640754118254106532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_1
+      name: shopkeep_1
       rect:
         serializedVersion: 2
-        x: 184
-        y: 350
-        width: 120
-        height: 153
+        x: 197
+        y: 337
+        width: 117
+        height: 146
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbab7b94b23989248b086d5bc503ff70
-      internalID: 8316397184424839978
+      spriteID: c5b71ff122f37d74b9715f61287d060f
+      internalID: -752792301465324329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_2
+      name: shopkeep_2
       rect:
         serializedVersion: 2
-        x: 327
-        y: 350
-        width: 120
-        height: 153
+        x: 352
+        y: 336
+        width: 108
+        height: 146
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac31a0f27d24dca4cbe34a31fc2d59d2
-      internalID: -6185215649757994937
+      spriteID: 711028dba2018a748b28e979791c1119
+      internalID: -5795279887641139669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_3
+      name: shopkeep_3
       rect:
         serializedVersion: 2
-        x: 57
+        x: 52
         y: 181
-        width: 94
-        height: 156
+        width: 97
+        height: 151
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +214,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e003dbe31e194e5478ba07dffc3f48c2
-      internalID: 6970761311163112517
+      spriteID: 948b3a9ca554f4044ad672f684dab65c
+      internalID: 8265150833338780559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_4
+      name: shopkeep_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 184
+        width: 97
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa4c6bcb3f2ef74c8b2eead28505a30
+      internalID: -700477163465542884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopkeep_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 181
+        width: 97
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a65fb40f77bc1e439cc6349d549472a
+      internalID: 3472045191851312252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopkeep_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 30
+        width: 116
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a313258f6d1c84b855860b43312a52
+      internalID: -2688867863832233273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shopkeep_7
       rect:
         serializedVersion: 2
         x: 198
-        y: 181
-        width: 93
-        height: 156
+        y: 30
+        width: 119
+        height: 146
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +298,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72dda99ff3029dd4d8ac06fb8ba65045
-      internalID: 6055849998033646926
+      spriteID: 255da80c386a53048b5b70b44ef1a13a
+      internalID: 7343855414699223548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_5
+      name: shopkeep_8
       rect:
         serializedVersion: 2
-        x: 340
-        y: 181
-        width: 94
-        height: 156
+        x: 349
+        y: 30
+        width: 116
+        height: 146
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,71 +319,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 297776c15831de340b3a6b286d07ba89
-      internalID: 2653441173513263824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_6
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 5
-        width: 120
-        height: 153
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d50122053eb04840988240b63a04119
-      internalID: -4051981491151045392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_7
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 5
-        width: 120
-        height: 153
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf4eea8b5fff3c84499c37183783908f
-      internalID: -671634281960802618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_8
-      rect:
-        serializedVersion: 2
-        x: 327
-        y: 5
-        width: 120
-        height: 153
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 281a73e80795f6b49a93d02d6bd01383
-      internalID: -3079214201067798777
+      spriteID: 82a461f37b7f03e42ac9d6bffe76d203
+      internalID: -3370031540007065307
       vertices: []
       indices: 
       edges: []

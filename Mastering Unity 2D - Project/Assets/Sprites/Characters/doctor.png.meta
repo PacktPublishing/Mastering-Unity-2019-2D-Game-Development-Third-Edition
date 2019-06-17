@@ -1,34 +1,34 @@
 fileFormatVersion: 2
-guid: 3060cee9ae4867c4b8292ad17756ce6c
+guid: 5f7b4a048b518c04eb256956411e9e8c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2720509990274925279
-    second: protagonist-walkCycle_0
+      213: -5461496712832900230
+    second: doctor_0
   - first:
-      213: 8316397184424839978
-    second: protagonist-walkCycle_1
+      213: 1548003919399249466
+    second: doctor_1
   - first:
-      213: -6185215649757994937
-    second: protagonist-walkCycle_2
+      213: -716004284141661336
+    second: doctor_2
   - first:
-      213: 6970761311163112517
-    second: protagonist-walkCycle_3
+      213: 7208833582942059975
+    second: doctor_3
   - first:
-      213: 6055849998033646926
-    second: protagonist-walkCycle_4
+      213: 767532732291643845
+    second: doctor_4
   - first:
-      213: 2653441173513263824
-    second: protagonist-walkCycle_5
+      213: -7791708351821934427
+    second: doctor_5
   - first:
-      213: -4051981491151045392
-    second: protagonist-walkCycle_6
+      213: 3255973655751658883
+    second: doctor_6
   - first:
-      213: -671634281960802618
-    second: protagonist-walkCycle_7
+      213: -1379189936229403592
+    second: doctor_7
   - first:
-      213: -3079214201067798777
-    second: protagonist-walkCycle_8
+      213: -1316019629398131145
+    second: doctor_8
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -137,139 +137,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: protagonist-walkCycle_0
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 350
-        width: 120
-        height: 153
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa15b1243eadfb24986f1cdf6ef40ef3
-      internalID: 2720509990274925279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_1
-      rect:
-        serializedVersion: 2
-        x: 184
-        y: 350
-        width: 120
-        height: 153
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbab7b94b23989248b086d5bc503ff70
-      internalID: 8316397184424839978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_2
-      rect:
-        serializedVersion: 2
-        x: 327
-        y: 350
-        width: 120
-        height: 153
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac31a0f27d24dca4cbe34a31fc2d59d2
-      internalID: -6185215649757994937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_3
+      name: doctor_0
       rect:
         serializedVersion: 2
         x: 57
-        y: 181
-        width: 94
-        height: 156
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e003dbe31e194e5478ba07dffc3f48c2
-      internalID: 6970761311163112517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_4
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 181
-        width: 93
-        height: 156
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72dda99ff3029dd4d8ac06fb8ba65045
-      internalID: 6055849998033646926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_5
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 181
-        width: 94
-        height: 156
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 297776c15831de340b3a6b286d07ba89
-      internalID: 2653441173513263824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: protagonist-walkCycle_6
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 5
+        y: 361
         width: 120
-        height: 153
+        height: 148
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d50122053eb04840988240b63a04119
-      internalID: -4051981491151045392
+      spriteID: 031001a1f10d37344afa66eaf9ef9598
+      internalID: -5461496712832900230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_7
+      name: doctor_1
       rect:
         serializedVersion: 2
-        x: 191
-        y: 5
+        x: 200
+        y: 359
         width: 120
-        height: 153
+        height: 148
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf4eea8b5fff3c84499c37183783908f
-      internalID: -671634281960802618
+      spriteID: 7e313f1f9484736479bb6af0f7a0fc96
+      internalID: 1548003919399249466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonist-walkCycle_8
+      name: doctor_2
       rect:
         serializedVersion: 2
-        x: 327
-        y: 5
+        x: 335
+        y: 361
         width: 120
-        height: 153
+        height: 147
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,8 +193,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 281a73e80795f6b49a93d02d6bd01383
-      internalID: -3079214201067798777
+      spriteID: 1ac716cacafcc9e47a46463af3b68c19
+      internalID: -716004284141661336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 169
+        width: 103
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac87d2718373b14eaf6f0003d973f94
+      internalID: 7208833582942059975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 168
+        width: 103
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a9f0725256c78458a38a491d3f4efd
+      internalID: 767532732291643845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 171
+        width: 103
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94633311dad95744ac2907b54dc64ce
+      internalID: -7791708351821934427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6
+        width: 120
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fadcf9183f67fa4fbc5feb8a5e871d5
+      internalID: 3255973655751658883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 4
+        width: 120
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a7b8a0724bef42bcb4122b34541c7
+      internalID: -1379189936229403592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 6
+        width: 120
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559bd769f499efe4c9aaa056fac041c5
+      internalID: -1316019629398131145
       vertices: []
       indices: 
       edges: []
